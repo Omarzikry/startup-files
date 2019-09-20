@@ -1,0 +1,33 @@
+{
+  "name": "jenniferanistonwebsite",
+  "version": "1.0.0",
+  "description": "Website for the most popular actress jennifer aniston",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp"
+  },
+  "keywords": [
+    "jennifer aniston",
+    "jennifer",
+    "aniston",
+    "webgl",
+    "movies"
+  ],
+  "author": "Omar Zikry",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-terser": "^1.2.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.6.0",
+    "browser-sync": "^2.26.7",
+    "gsap": "^2.1.3",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "rellax": "^1.10.0"
+  }
+}
